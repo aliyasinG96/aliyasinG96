@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Blockchain Developer & Security Engineer
+
+- Smart Contract Development
+- Web3 Security Research
+- Solidity / Rust / Move
+- Smart Contract Auditing
+- DeFi Infrastructure
+- MEV & Trading Bots
