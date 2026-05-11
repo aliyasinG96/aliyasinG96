@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 Blockchain Developer & Security Engineer
 
-- Smart Contract Development
+- Smart Contract Development & Auditing
 - Web3 Security Research
-- Solidity / Rust / Move
-- Smart Contract Auditing
+- Solidity / Rust / Go
+- Cryptography tools development
 - DeFi Infrastructure
 - MEV & Trading Bots
