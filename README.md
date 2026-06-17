@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Blockchain Developer & Security Engineer
+Security Engineer & AI-powered Backend dev & Distributed systems
 
+- PKC (ECC, PQC) primitives development
 - Smart Contract Development & Auditing
 - Web3 Security Research
 - Solidity / Rust / Go
